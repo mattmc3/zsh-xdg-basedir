@@ -1,2 +1,2 @@
 0=${(%):-%N}
-source ${0:A:h}/zsh-xdg-basedirs.zsh
+source ${0:A:h}/zsh-xdg-basedir.zsh
